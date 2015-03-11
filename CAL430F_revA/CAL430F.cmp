@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-05 BZR 5353)-product   date = 2015/03/05 23:38:17
+
+BeginCmp
+TimeStamp = /54649847;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CF377;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CE9F8;
+Reference = C3;
+ValeurCmp = 10p;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CEA59;
+Reference = C4;
+ValeurCmp = 10p;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CED7E;
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CEC83;
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464C4AB;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /54760E53;
+Reference = J1;
+ValeurCmp = 57246-1071;
+IdModule  = CONN_FPC:52746-1071;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CFF79;
+Reference = R1;
+ValeurCmp = 47k;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545F2340;
+Reference = R2;
+ValeurCmp = 0;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CF1E1;
+Reference = R3;
+ValeurCmp = 0;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F6D508;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F6D5B4;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F6D5CD;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F6D5EC;
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F6D60F;
+Reference = SW5;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CE89A;
+Reference = U1;
+ValeurCmp = MSP430FR5949IR;
+IdModule  = QFP_QFN:QFN40;
+EndCmp
+
+BeginCmp
+TimeStamp = /54600BA5;
+Reference = U2;
+ValeurCmp = BAT_HLD_001;
+IdModule  = BATT:BAT_HLD-001;
+EndCmp
+
+BeginCmp
+TimeStamp = /54649228;
+Reference = U3;
+ValeurCmp = ADXL362;
+IdModule  = LGA:LGA16_ADXL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F49FD3;
+Reference = U4;
+ValeurCmp = DF12#-20DP(86);
+IdModule  = CONN_DF12:DF12_20_metal;
+EndCmp
+
+BeginCmp
+TimeStamp = /545CE781;
+Reference = X1;
+ValeurCmp = 32.768 6pF;
+IdModule  = CRYSTAL:CRYSTAL_2012;
+EndCmp
+
+EndListe
