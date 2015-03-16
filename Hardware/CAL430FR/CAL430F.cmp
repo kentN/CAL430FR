@@ -1,0 +1,243 @@
+Cmp-Mod V01 Genere par PcbNew le 2015/03/16 16:37:28
+
+BeginCmp
+TimeStamp = 54F861D8
+Path = /54F6D60F
+Reference = SW5;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F584D6
+Path = /54760E53
+Reference = J1;
+ValeurCmp = 57246-1071;
+IdModule  = CONN_FPC:52746-1071;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F57150
+Path = /54600BA5
+Reference = U2;
+ValeurCmp = BAT_HLD_001;
+IdModule  = BATT:BAT_HLD-001;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FAF85B
+Path = /545CE89A
+Reference = U1;
+ValeurCmp = MSP430FR5949IR;
+IdModule  = QFP_QFN:QFN40;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F8618C
+Path = /54F6D508
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F8619F
+Path = /54F6D5B4
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F861B2
+Path = /54F6D5CD
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F861C5
+Path = /54F6D5EC
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:B3U-3000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F9E777
+Path = /54FA5168
+Reference = D1;
+ValeurCmp = BAS70T-05T-7-F;
+IdModule  = DIODE:SOT-523;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FAFF8B
+Path = /54FB0612
+Reference = C8;
+ValeurCmp = 1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FAFF9B
+Path = /54FB138B
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = R_SMD:R1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB014B
+Path = /545CE9F8
+Reference = C3;
+ValeurCmp = 10p;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB01E4
+Path = /545CEA59
+Reference = C4;
+ValeurCmp = 10p;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB0432
+Path = /545CFF79
+Reference = R1;
+ValeurCmp = 47k;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB0442
+Path = /545CF1E1
+Reference = R3;
+ValeurCmp = 0;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB0B2B
+Path = /545CF377
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB0B3A
+Path = /545CED7E
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB05B1
+Path = /545F2340
+Reference = R2;
+ValeurCmp = 0;
+IdModule  = R_SMD:R1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB06ED
+Path = /54649847
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB06FB
+Path = /545CEC83
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB0709
+Path = /5464C4AB
+Reference = C7;
+ValeurCmp = C;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB08EB
+Path = /545CE781
+Reference = X1;
+ValeurCmp = 32.768 6pF;
+IdModule  = CRYSTAL:CRYSTAL_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB09C2
+Path = 
+Reference = Drill_M2;
+ValeurCmp = VAL**;
+IdModule  = Drill:Drill_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB09CB
+Path = 
+Reference = Drill_M2;
+ValeurCmp = VAL**;
+IdModule  = Drill:Drill_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB09D4
+Path = 
+Reference = Drill_M2;
+ValeurCmp = VAL**;
+IdModule  = Drill:Drill_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FB09DD
+Path = 
+Reference = Drill_M2;
+ValeurCmp = VAL**;
+IdModule  = Drill:Drill_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FBCE35
+Path = /54F49FD3
+Reference = U4;
+ValeurCmp = DF12#-20DP(86);
+IdModule  = CONN_DF12:DF12_20_metal;
+EndCmp
+
+BeginCmp
+TimeStamp = 54F87505
+Path = /54649228
+Reference = U3;
+ValeurCmp = ADXL362;
+IdModule  = LGA:LGA16_ADXL;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FC83DB
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO:N_LOGO_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FC9140
+Path = /54FC96A7
+Reference = C9;
+ValeurCmp = 1u;
+IdModule  = C_SMD:C1005;
+EndCmp
+
+EndListe
