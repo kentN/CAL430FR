@@ -4,7 +4,7 @@ MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 
 ----------
 
-## CAL.430FR Features ##
+## Features ##
 
 - Sharp Memory LCD (128x128pixcel or 96x96pixcel)
 - External Connector(DF12-20p) includes MSP430 prog pin, UART(x2ch), SPI(x1), GPIO(x9)
