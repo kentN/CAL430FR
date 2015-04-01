@@ -2,6 +2,8 @@
 
 MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 
+![](https://lh4.googleusercontent.com/-BG61CUv3bKM/VRqzfOb5q5I/AAAAAAAAFn0/F0GhLBKIptw/s800/RIMG2595.JPG)
+
 ----------
 
 ## Features ##
@@ -28,4 +30,3 @@ MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 - KiCad (BZR5353 or higher)
 - MSP430FR5969 LaunchPad
 - CCSv6
-- Red Hat GCC for MSP430
