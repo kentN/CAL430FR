@@ -2,8 +2,6 @@
 
 MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 ![](https://lh4.googleusercontent.com/-BG61CUv3bKM/VRqzfOb5q5I/AAAAAAAAFn0/F0GhLBKIptw/s800/RIMG2595.JPG)
-![](https://lh3.googleusercontent.com/-_zzxFwhlBzU/VR4Ijtf-UHI/AAAAAAAAFqk/2EWioBssr9U/s512/DSC01693.JPG)
-![](https://lh6.googleusercontent.com/-8JJTe-MUP4U/VR4ChJv7tLI/AAAAAAAAFp0/wf-QYfZzUvY/s720/DSC01681.JPG)
 
 ----------
 
