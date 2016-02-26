@@ -20,13 +20,14 @@ MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 ## Applications ##
 
 - DIY WristWatch
-- Embedded GUI & RTC module
+- Embedded Display&TimeKeeping module
 - Motion Data Logger
 
 ----------
 
 ##Project Environment##
 
-- KiCad (BZR5353 or higher)
+- KiCad (4.0.1)
 - MSP430FR5969 LaunchPad
+- Energia IDE
 - CCSv6
