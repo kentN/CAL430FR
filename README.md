@@ -1,8 +1,8 @@
 # CAL.430FR #
 
 MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
-![](https://lh4.googleusercontent.com/-BG61CUv3bKM/VRqzfOb5q5I/AAAAAAAAFn0/F0GhLBKIptw/s800/RIMG2595.JPG)
-![](https://lh3.googleusercontent.com/-ViAPIVbQbm0/VtBCWzGaOmI/AAAAAAAAF80/_nYffTUKp1Q/s564-Ic42/CAL430FR_watch.jpg)
+![](https://lh3.googleusercontent.com/-BG61CUv3bKM/VRqzfOb5q5I/AAAAAAAAF9M/2KUVp6UUn44/s720-Ic42/RIMG2595.JPG)
+![](https://lh3.googleusercontent.com/-ViAPIVbQbm0/VtBCWzGaOmI/AAAAAAAAF9Q/bDEgPBePlYQ/s720-Ic42/CAL430FR_watch.jpg)
 
 ----------
 
