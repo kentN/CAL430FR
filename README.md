@@ -25,7 +25,7 @@ MSP430FR5949 TimeKeeping Module with ADXL362 & Sharp MemoryLCD
 
 ----------
 
-##Project Environment##
+## Project Environment ##
 
 - KiCad (4.0.1)
 - MSP430FR5969 LaunchPad
